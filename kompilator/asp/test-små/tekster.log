@@ -1,0 +1,12 @@
+"Sorli" == "SÃ¸rli" == "SÃ¸rlie" ==>
+Trace line 3: False
+"Sorli" < "SÃ¸rli" < "SÃ¸rlie" ==>
+Trace line 4: True
+"Sorli" <= "SÃ¸rli" <= "SÃ¸rlie" ==>
+Trace line 5: True
+"Sorli" >= "SÃ¸rli" >= "SÃ¸rlie" ==>
+Trace line 6: False
+"Sorli" > "SÃ¸rli" > "SÃ¸rlie" ==>
+Trace line 7: False
+"Sorli" != "SÃ¸rli" != "SÃ¸rlie" ==>
+Trace line 8: True

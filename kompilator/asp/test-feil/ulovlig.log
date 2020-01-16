@@ -1,0 +1,54 @@
+<program>
+   1: # Noen tegn er ulovlig i Asp:
+   2: 
+   3: print("A! = A?")  # Alle tegn er lov i tekstliteraler.
+  <stmt>
+    <expr stmt>
+      <expr>
+        <and test>
+          <not test>
+            <comparison>
+              <term>
+                <factor>
+                  <primary>
+                    <atom>
+                      <name>
+                      </name>
+                    </atom>
+                    <primary suffix>
+                      <arguments>
+                        <expr>
+                          <and test>
+                            <not test>
+                              <comparison>
+                                <term>
+                                  <factor>
+                                    <primary>
+                                      <atom>
+                                        <string literal>
+                                        </string literal>
+                                      </atom>
+                                    </primary>
+                                  </factor>
+                                </term>
+                              </comparison>
+                            </not test>
+                          </and test>
+                        </expr>
+                      </arguments>
+                    </primary suffix>
+                  </primary>
+                </factor>
+              </term>
+            </comparison>
+          </not test>
+        </and test>
+      </expr>
+    </expr stmt>
+  </stmt>
+   4: 
+   5: A! = A?   # Men ikke i programkoden.
+Asp scanner error on line 5: Error! Invalid symbol
+A! = A?   # Men ikke i programkoden.
+ ∧
+

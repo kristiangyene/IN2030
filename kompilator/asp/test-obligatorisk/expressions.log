@@ -1,0 +1,29 @@
+Trace line 1: "Testing integer expressions:"
+Trace line 2: 42
+Trace line 3: -1017
+Trace line 4: 33
+Trace line 5: 16
+Trace line 7: "Testing float expressions:"
+Trace line 8: 42.0
+Trace line 9: -1017.1
+Trace line 10: 1.9999616399999998
+Trace line 11: 33.0
+Trace line 13: "Testing string expressions"
+Trace line 14: "Abc"
+Trace line 15: "xxxxxxxxxx"
+Trace line 16: "Abrakadabra"
+Trace line 18: "Testing boolean expressions"
+Trace line 19: True
+Trace line 20: "To be"
+Trace line 21: 3.14
+Trace line 22: True
+Trace line 24: "Testing comparisons"
+Trace line 25: False
+Trace line 26: True
+Trace line 28: "Testing lists"
+Trace line 29: []
+Trace line 30: [-1, 0, 1, -1, 0, 1]
+Trace line 31: 102
+Trace line 33: "Testing dictionaries"
+Trace line 34: {"A" : "a" , "B" : 3 }
+Trace line 35: 1

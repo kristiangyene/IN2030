@@ -1,0 +1,6 @@
+"Noen eksempler på <expr>:" ==>
+Trace line 2: 'Noen eksempler på <expr>:'
+1 + 2 ==>
+Trace line 3: 3
+2 + 2 == 4 ==>
+Trace line 4: True

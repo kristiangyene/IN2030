@@ -1,0 +1,4 @@
+Trace line 1: m_navn : [hei, deg, lei, fei]
+Trace line 2: m_num : {}
+Trace line 4: m : 2
+Trace line 7: Called function print with parameters: [{lei : 2 }]

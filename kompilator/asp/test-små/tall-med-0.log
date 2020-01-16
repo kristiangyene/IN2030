@@ -1,0 +1,68 @@
+<program>
+   1: # I Asp fÃ¥r tall ikke lov Ã¥ starte med sifferet 0, men
+   2: # selve tallet 0 er selvfÃ¸lgelig et unntak.
+   3: # (I Python 2 er det anderledes; da brukes innledende 0-siffer
+   4: # til Ã¥ angi at tallet er pÃ¥ oktal form.)
+   5: 
+   6: a = 0   # Dette er helt OK.
+  <stmt>
+    <small stmt list>
+      <small stmt>
+        <assignment>
+          <name>
+          </name>
+          <expr>
+            <and test>
+              <not test>
+                <comparison>
+                  <term>
+                    <factor>
+                      <primary>
+                        <atom>
+                          <integer literal>
+                          </integer literal>
+                        </atom>
+                      </primary>
+                    </factor>
+                  </term>
+                </comparison>
+              </not test>
+            </and test>
+          </expr>
+        </assignment>
+      </small stmt>
+    </small stmt list>
+  </stmt>
+   7: a = 04  # Men ikke dette. I Asp er dette to tall: 0 og 4!
+  <stmt>
+    <small stmt list>
+      <small stmt>
+        <assignment>
+          <name>
+          </name>
+          <expr>
+            <and test>
+              <not test>
+                <comparison>
+                  <term>
+                    <factor>
+                      <primary>
+                        <atom>
+                          <integer literal>
+                          </integer literal>
+                        </atom>
+                      </primary>
+                    </factor>
+                  </term>
+                </comparison>
+              </not test>
+            </and test>
+          </expr>
+        </assignment>
+      </small stmt>
+    </small stmt list>
+  </stmt>
+</program>
+
+a = 0
+a = 4

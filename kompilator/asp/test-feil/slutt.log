@@ -1,0 +1,59 @@
+<program>
+   1: # Dette programmet inneholder en tekststreng som ikke avsluttes pÃ¥
+   2: # samme linje.
+   3: 
+   4: t1 = "Denne er OK"
+  <stmt>
+    <assignment>
+      <name>
+      </name>
+      <expr>
+        <and test>
+          <not test>
+            <comparison>
+              <term>
+                <factor>
+                  <primary>
+                    <atom>
+                      <string literal>
+                      </string literal>
+                    </atom>
+                  </primary>
+                </factor>
+              </term>
+            </comparison>
+          </not test>
+        </and test>
+      </expr>
+    </assignment>
+  </stmt>
+   5: t2 = 'Denne ogsÃ¥'
+  <stmt>
+    <assignment>
+      <name>
+      </name>
+      <expr>
+        <and test>
+          <not test>
+            <comparison>
+              <term>
+                <factor>
+                  <primary>
+                    <atom>
+                      <string literal>
+                      </string literal>
+                    </atom>
+                  </primary>
+                </factor>
+              </term>
+            </comparison>
+          </not test>
+        </and test>
+      </expr>
+    </assignment>
+  </stmt>
+   6: t3 = 'Denne starter her
+Asp scanner error on line 6: Error! Invalid string
+t3 = 'Denne starter her
+                       ∧
+

@@ -1,0 +1,25 @@
+Trace line 8: def GCD
+Trace line 14: Called function input with parameters: [A number: ]
+Trace line 14: Call function int with params: [10]
+Trace line 14: v1 : 10
+Trace line 15: Called function input with parameters: [Another number: ]
+Trace line 15: Call function int with params: [19]
+Trace line 15: v2 : 19
+Trace line 17: Called function GCD with parameters: [10, 19]
+Trace line 9: else:
+Trace line 12: Called function GCD with parameters: [19, 10]
+Trace line 9: else:
+Trace line 12: Called function GCD with parameters: [10, 9]
+Trace line 9: else:
+Trace line 12: Called function GCD with parameters: [9, 1]
+Trace line 9: else:
+Trace line 12: Called function GCD with parameters: [1, 0]
+Trace line 10: return 1
+Trace line 12: return 1
+Trace line 12: return 1
+Trace line 12: return 1
+Trace line 12: return 1
+Trace line 17: res : 1
+Trace line 18: Called function str with parameters: [10]
+Trace line 18: Called function str with parameters: [19]
+Trace line 18: Called function print with parameters: [GCD(10,19) =, 1]

@@ -1,0 +1,81 @@
+Trace line 3: M_name : [, , , , , , , , , , , , ]
+Trace line 8: a : 3
+Trace line 9: b : 20
+Trace line 10: c : 17
+Trace line 11: d : 5
+Trace line 12: e : 0
+Trace line 13: f : 1
+Trace line 14: g : 6
+Trace line 15: h : 21
+Trace line 16: i : 4
+Trace line 17: k : 1
+Trace line 18: l : 4
+Trace line 19: m : 0
+Trace line 21: month : 4
+Trace line 22: day : 16
+Trace line 23: Called function str with parameters: [16]
+Trace line 23: Called function print with parameters: [16. april, 2017]
+Trace line 8: a : 4
+Trace line 9: b : 20
+Trace line 10: c : 18
+Trace line 11: d : 5
+Trace line 12: e : 0
+Trace line 13: f : 1
+Trace line 14: g : 6
+Trace line 15: h : 10
+Trace line 16: i : 4
+Trace line 17: k : 2
+Trace line 18: l : 0
+Trace line 19: m : 0
+Trace line 21: month : 4
+Trace line 22: day : 1
+Trace line 23: Called function str with parameters: [1]
+Trace line 23: Called function print with parameters: [1. april, 2018]
+Trace line 8: a : 5
+Trace line 9: b : 20
+Trace line 10: c : 19
+Trace line 11: d : 5
+Trace line 12: e : 0
+Trace line 13: f : 1
+Trace line 14: g : 6
+Trace line 15: h : 29
+Trace line 16: i : 4
+Trace line 17: k : 3
+Trace line 18: l : 1
+Trace line 19: m : 0
+Trace line 21: month : 4
+Trace line 22: day : 21
+Trace line 23: Called function str with parameters: [21]
+Trace line 23: Called function print with parameters: [21. april, 2019]
+Trace line 8: a : 6
+Trace line 9: b : 20
+Trace line 10: c : 20
+Trace line 11: d : 5
+Trace line 12: e : 0
+Trace line 13: f : 1
+Trace line 14: g : 6
+Trace line 15: h : 18
+Trace line 16: i : 5
+Trace line 17: k : 0
+Trace line 18: l : 3
+Trace line 19: m : 0
+Trace line 21: month : 4
+Trace line 22: day : 12
+Trace line 23: Called function str with parameters: [12]
+Trace line 23: Called function print with parameters: [12. april, 2020]
+Trace line 8: a : 7
+Trace line 9: b : 20
+Trace line 10: c : 21
+Trace line 11: d : 5
+Trace line 12: e : 0
+Trace line 13: f : 1
+Trace line 14: g : 6
+Trace line 15: h : 7
+Trace line 16: i : 5
+Trace line 17: k : 1
+Trace line 18: l : 6
+Trace line 19: m : 0
+Trace line 21: month : 4
+Trace line 22: day : 4
+Trace line 23: Called function str with parameters: [4]
+Trace line 23: Called function print with parameters: [4. april, 2021]

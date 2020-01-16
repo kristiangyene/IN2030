@@ -1,0 +1,718 @@
+Trace line 4: ukedag : [man, tirs, ons, tors, fre, lÃ¸r, sÃ¸n]
+Trace line 5: m_leng : [0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+Trace line 7: m_navn : [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Trace line 13: m_num : {}
+Trace line 14: Called function range with parameters: [1, 13]
+Trace line 18: def finn_maaned
+Trace line 24: def les_maaned
+Trace line 31: def er_skuddaar
+Trace line 35: def finn_m_leng
+Trace line 40: def finn_dag_nr
+Trace line 55: Called function input with parameters: [Oppgi et Ã¥r: ]
+Trace line 55: Call function int with params: [1996]
+Trace line 55: aar : 1996
+Trace line 56: Called function les_maaned with parameters: []
+Trace line 25: while True:
+Trace line 26: Called function input with parameters: [Oppgi en mÃ¥ned: ]
+Trace line 26: m_id : oktober
+Trace line 27: Called function finn_maaned with parameters: [oktober]
+Trace line 19: Called function range with parameters: [1, 13]
+Trace line 20: return 10
+Trace line 27: return 10
+Trace line 56: maaned : 10
+Trace line 57: Called function input with parameters: [Oppgi en dag: ]
+Trace line 57: Call function int with params: [23]
+Trace line 57: dag : 23
+Trace line 58: Called function finn_dag_nr with parameters: [1996, 10, 23]
+Trace line 41: d_nr : 0
+Trace line 44: Called function range with parameters: [1900, 1996]
+Trace line 45: d_nr : 365
+Trace line 46: Called function er_skuddaar with parameters: [1900]
+Trace line 32: return False
+Trace line 45: d_nr : 730
+Trace line 46: Called function er_skuddaar with parameters: [1901]
+Trace line 32: return False
+Trace line 45: d_nr : 1095
+Trace line 46: Called function er_skuddaar with parameters: [1902]
+Trace line 32: return False
+Trace line 45: d_nr : 1460
+Trace line 46: Called function er_skuddaar with parameters: [1903]
+Trace line 32: return False
+Trace line 45: d_nr : 1825
+Trace line 46: Called function er_skuddaar with parameters: [1904]
+Trace line 32: return 4
+Trace line 46: d_nr : 1826
+Trace line 45: d_nr : 2191
+Trace line 46: Called function er_skuddaar with parameters: [1905]
+Trace line 32: return False
+Trace line 45: d_nr : 2556
+Trace line 46: Called function er_skuddaar with parameters: [1906]
+Trace line 32: return False
+Trace line 45: d_nr : 2921
+Trace line 46: Called function er_skuddaar with parameters: [1907]
+Trace line 32: return False
+Trace line 45: d_nr : 3286
+Trace line 46: Called function er_skuddaar with parameters: [1908]
+Trace line 32: return 8
+Trace line 46: d_nr : 3287
+Trace line 45: d_nr : 3652
+Trace line 46: Called function er_skuddaar with parameters: [1909]
+Trace line 32: return False
+Trace line 45: d_nr : 4017
+Trace line 46: Called function er_skuddaar with parameters: [1910]
+Trace line 32: return False
+Trace line 45: d_nr : 4382
+Trace line 46: Called function er_skuddaar with parameters: [1911]
+Trace line 32: return False
+Trace line 45: d_nr : 4747
+Trace line 46: Called function er_skuddaar with parameters: [1912]
+Trace line 32: return 12
+Trace line 46: d_nr : 4748
+Trace line 45: d_nr : 5113
+Trace line 46: Called function er_skuddaar with parameters: [1913]
+Trace line 32: return False
+Trace line 45: d_nr : 5478
+Trace line 46: Called function er_skuddaar with parameters: [1914]
+Trace line 32: return False
+Trace line 45: d_nr : 5843
+Trace line 46: Called function er_skuddaar with parameters: [1915]
+Trace line 32: return False
+Trace line 45: d_nr : 6208
+Trace line 46: Called function er_skuddaar with parameters: [1916]
+Trace line 32: return 16
+Trace line 46: d_nr : 6209
+Trace line 45: d_nr : 6574
+Trace line 46: Called function er_skuddaar with parameters: [1917]
+Trace line 32: return False
+Trace line 45: d_nr : 6939
+Trace line 46: Called function er_skuddaar with parameters: [1918]
+Trace line 32: return False
+Trace line 45: d_nr : 7304
+Trace line 46: Called function er_skuddaar with parameters: [1919]
+Trace line 32: return False
+Trace line 45: d_nr : 7669
+Trace line 46: Called function er_skuddaar with parameters: [1920]
+Trace line 32: return 20
+Trace line 46: d_nr : 7670
+Trace line 45: d_nr : 8035
+Trace line 46: Called function er_skuddaar with parameters: [1921]
+Trace line 32: return False
+Trace line 45: d_nr : 8400
+Trace line 46: Called function er_skuddaar with parameters: [1922]
+Trace line 32: return False
+Trace line 45: d_nr : 8765
+Trace line 46: Called function er_skuddaar with parameters: [1923]
+Trace line 32: return False
+Trace line 45: d_nr : 9130
+Trace line 46: Called function er_skuddaar with parameters: [1924]
+Trace line 32: return 24
+Trace line 46: d_nr : 9131
+Trace line 45: d_nr : 9496
+Trace line 46: Called function er_skuddaar with parameters: [1925]
+Trace line 32: return False
+Trace line 45: d_nr : 9861
+Trace line 46: Called function er_skuddaar with parameters: [1926]
+Trace line 32: return False
+Trace line 45: d_nr : 10226
+Trace line 46: Called function er_skuddaar with parameters: [1927]
+Trace line 32: return False
+Trace line 45: d_nr : 10591
+Trace line 46: Called function er_skuddaar with parameters: [1928]
+Trace line 32: return 28
+Trace line 46: d_nr : 10592
+Trace line 45: d_nr : 10957
+Trace line 46: Called function er_skuddaar with parameters: [1929]
+Trace line 32: return False
+Trace line 45: d_nr : 11322
+Trace line 46: Called function er_skuddaar with parameters: [1930]
+Trace line 32: return False
+Trace line 45: d_nr : 11687
+Trace line 46: Called function er_skuddaar with parameters: [1931]
+Trace line 32: return False
+Trace line 45: d_nr : 12052
+Trace line 46: Called function er_skuddaar with parameters: [1932]
+Trace line 32: return 32
+Trace line 46: d_nr : 12053
+Trace line 45: d_nr : 12418
+Trace line 46: Called function er_skuddaar with parameters: [1933]
+Trace line 32: return False
+Trace line 45: d_nr : 12783
+Trace line 46: Called function er_skuddaar with parameters: [1934]
+Trace line 32: return False
+Trace line 45: d_nr : 13148
+Trace line 46: Called function er_skuddaar with parameters: [1935]
+Trace line 32: return False
+Trace line 45: d_nr : 13513
+Trace line 46: Called function er_skuddaar with parameters: [1936]
+Trace line 32: return 36
+Trace line 46: d_nr : 13514
+Trace line 45: d_nr : 13879
+Trace line 46: Called function er_skuddaar with parameters: [1937]
+Trace line 32: return False
+Trace line 45: d_nr : 14244
+Trace line 46: Called function er_skuddaar with parameters: [1938]
+Trace line 32: return False
+Trace line 45: d_nr : 14609
+Trace line 46: Called function er_skuddaar with parameters: [1939]
+Trace line 32: return False
+Trace line 45: d_nr : 14974
+Trace line 46: Called function er_skuddaar with parameters: [1940]
+Trace line 32: return 40
+Trace line 46: d_nr : 14975
+Trace line 45: d_nr : 15340
+Trace line 46: Called function er_skuddaar with parameters: [1941]
+Trace line 32: return False
+Trace line 45: d_nr : 15705
+Trace line 46: Called function er_skuddaar with parameters: [1942]
+Trace line 32: return False
+Trace line 45: d_nr : 16070
+Trace line 46: Called function er_skuddaar with parameters: [1943]
+Trace line 32: return False
+Trace line 45: d_nr : 16435
+Trace line 46: Called function er_skuddaar with parameters: [1944]
+Trace line 32: return 44
+Trace line 46: d_nr : 16436
+Trace line 45: d_nr : 16801
+Trace line 46: Called function er_skuddaar with parameters: [1945]
+Trace line 32: return False
+Trace line 45: d_nr : 17166
+Trace line 46: Called function er_skuddaar with parameters: [1946]
+Trace line 32: return False
+Trace line 45: d_nr : 17531
+Trace line 46: Called function er_skuddaar with parameters: [1947]
+Trace line 32: return False
+Trace line 45: d_nr : 17896
+Trace line 46: Called function er_skuddaar with parameters: [1948]
+Trace line 32: return 48
+Trace line 46: d_nr : 17897
+Trace line 45: d_nr : 18262
+Trace line 46: Called function er_skuddaar with parameters: [1949]
+Trace line 32: return False
+Trace line 45: d_nr : 18627
+Trace line 46: Called function er_skuddaar with parameters: [1950]
+Trace line 32: return False
+Trace line 45: d_nr : 18992
+Trace line 46: Called function er_skuddaar with parameters: [1951]
+Trace line 32: return False
+Trace line 45: d_nr : 19357
+Trace line 46: Called function er_skuddaar with parameters: [1952]
+Trace line 32: return 52
+Trace line 46: d_nr : 19358
+Trace line 45: d_nr : 19723
+Trace line 46: Called function er_skuddaar with parameters: [1953]
+Trace line 32: return False
+Trace line 45: d_nr : 20088
+Trace line 46: Called function er_skuddaar with parameters: [1954]
+Trace line 32: return False
+Trace line 45: d_nr : 20453
+Trace line 46: Called function er_skuddaar with parameters: [1955]
+Trace line 32: return False
+Trace line 45: d_nr : 20818
+Trace line 46: Called function er_skuddaar with parameters: [1956]
+Trace line 32: return 56
+Trace line 46: d_nr : 20819
+Trace line 45: d_nr : 21184
+Trace line 46: Called function er_skuddaar with parameters: [1957]
+Trace line 32: return False
+Trace line 45: d_nr : 21549
+Trace line 46: Called function er_skuddaar with parameters: [1958]
+Trace line 32: return False
+Trace line 45: d_nr : 21914
+Trace line 46: Called function er_skuddaar with parameters: [1959]
+Trace line 32: return False
+Trace line 45: d_nr : 22279
+Trace line 46: Called function er_skuddaar with parameters: [1960]
+Trace line 32: return 60
+Trace line 46: d_nr : 22280
+Trace line 45: d_nr : 22645
+Trace line 46: Called function er_skuddaar with parameters: [1961]
+Trace line 32: return False
+Trace line 45: d_nr : 23010
+Trace line 46: Called function er_skuddaar with parameters: [1962]
+Trace line 32: return False
+Trace line 45: d_nr : 23375
+Trace line 46: Called function er_skuddaar with parameters: [1963]
+Trace line 32: return False
+Trace line 45: d_nr : 23740
+Trace line 46: Called function er_skuddaar with parameters: [1964]
+Trace line 32: return 64
+Trace line 46: d_nr : 23741
+Trace line 45: d_nr : 24106
+Trace line 46: Called function er_skuddaar with parameters: [1965]
+Trace line 32: return False
+Trace line 45: d_nr : 24471
+Trace line 46: Called function er_skuddaar with parameters: [1966]
+Trace line 32: return False
+Trace line 45: d_nr : 24836
+Trace line 46: Called function er_skuddaar with parameters: [1967]
+Trace line 32: return False
+Trace line 45: d_nr : 25201
+Trace line 46: Called function er_skuddaar with parameters: [1968]
+Trace line 32: return 68
+Trace line 46: d_nr : 25202
+Trace line 45: d_nr : 25567
+Trace line 46: Called function er_skuddaar with parameters: [1969]
+Trace line 32: return False
+Trace line 45: d_nr : 25932
+Trace line 46: Called function er_skuddaar with parameters: [1970]
+Trace line 32: return False
+Trace line 45: d_nr : 26297
+Trace line 46: Called function er_skuddaar with parameters: [1971]
+Trace line 32: return False
+Trace line 45: d_nr : 26662
+Trace line 46: Called function er_skuddaar with parameters: [1972]
+Trace line 32: return 72
+Trace line 46: d_nr : 26663
+Trace line 45: d_nr : 27028
+Trace line 46: Called function er_skuddaar with parameters: [1973]
+Trace line 32: return False
+Trace line 45: d_nr : 27393
+Trace line 46: Called function er_skuddaar with parameters: [1974]
+Trace line 32: return False
+Trace line 45: d_nr : 27758
+Trace line 46: Called function er_skuddaar with parameters: [1975]
+Trace line 32: return False
+Trace line 45: d_nr : 28123
+Trace line 46: Called function er_skuddaar with parameters: [1976]
+Trace line 32: return 76
+Trace line 46: d_nr : 28124
+Trace line 45: d_nr : 28489
+Trace line 46: Called function er_skuddaar with parameters: [1977]
+Trace line 32: return False
+Trace line 45: d_nr : 28854
+Trace line 46: Called function er_skuddaar with parameters: [1978]
+Trace line 32: return False
+Trace line 45: d_nr : 29219
+Trace line 46: Called function er_skuddaar with parameters: [1979]
+Trace line 32: return False
+Trace line 45: d_nr : 29584
+Trace line 46: Called function er_skuddaar with parameters: [1980]
+Trace line 32: return 80
+Trace line 46: d_nr : 29585
+Trace line 45: d_nr : 29950
+Trace line 46: Called function er_skuddaar with parameters: [1981]
+Trace line 32: return False
+Trace line 45: d_nr : 30315
+Trace line 46: Called function er_skuddaar with parameters: [1982]
+Trace line 32: return False
+Trace line 45: d_nr : 30680
+Trace line 46: Called function er_skuddaar with parameters: [1983]
+Trace line 32: return False
+Trace line 45: d_nr : 31045
+Trace line 46: Called function er_skuddaar with parameters: [1984]
+Trace line 32: return 84
+Trace line 46: d_nr : 31046
+Trace line 45: d_nr : 31411
+Trace line 46: Called function er_skuddaar with parameters: [1985]
+Trace line 32: return False
+Trace line 45: d_nr : 31776
+Trace line 46: Called function er_skuddaar with parameters: [1986]
+Trace line 32: return False
+Trace line 45: d_nr : 32141
+Trace line 46: Called function er_skuddaar with parameters: [1987]
+Trace line 32: return False
+Trace line 45: d_nr : 32506
+Trace line 46: Called function er_skuddaar with parameters: [1988]
+Trace line 32: return 88
+Trace line 46: d_nr : 32507
+Trace line 45: d_nr : 32872
+Trace line 46: Called function er_skuddaar with parameters: [1989]
+Trace line 32: return False
+Trace line 45: d_nr : 33237
+Trace line 46: Called function er_skuddaar with parameters: [1990]
+Trace line 32: return False
+Trace line 45: d_nr : 33602
+Trace line 46: Called function er_skuddaar with parameters: [1991]
+Trace line 32: return False
+Trace line 45: d_nr : 33967
+Trace line 46: Called function er_skuddaar with parameters: [1992]
+Trace line 32: return 92
+Trace line 46: d_nr : 33968
+Trace line 45: d_nr : 34333
+Trace line 46: Called function er_skuddaar with parameters: [1993]
+Trace line 32: return False
+Trace line 45: d_nr : 34698
+Trace line 46: Called function er_skuddaar with parameters: [1994]
+Trace line 32: return False
+Trace line 45: d_nr : 35063
+Trace line 46: Called function er_skuddaar with parameters: [1995]
+Trace line 32: return False
+Trace line 49: Called function range with parameters: [1, 10]
+Trace line 50: Called function finn_m_leng with parameters: [1, 1996]
+Trace line 37: return 31
+Trace line 50: d_nr : 35094
+Trace line 50: Called function finn_m_leng with parameters: [2, 1996]
+Trace line 36: Called function er_skuddaar with parameters: [1996]
+Trace line 32: return 96
+Trace line 36: return 29
+Trace line 50: d_nr : 35123
+Trace line 50: Called function finn_m_leng with parameters: [3, 1996]
+Trace line 37: return 31
+Trace line 50: d_nr : 35154
+Trace line 50: Called function finn_m_leng with parameters: [4, 1996]
+Trace line 37: return 30
+Trace line 50: d_nr : 35184
+Trace line 50: Called function finn_m_leng with parameters: [5, 1996]
+Trace line 37: return 31
+Trace line 50: d_nr : 35215
+Trace line 50: Called function finn_m_leng with parameters: [6, 1996]
+Trace line 37: return 30
+Trace line 50: d_nr : 35245
+Trace line 50: Called function finn_m_leng with parameters: [7, 1996]
+Trace line 37: return 31
+Trace line 50: d_nr : 35276
+Trace line 50: Called function finn_m_leng with parameters: [8, 1996]
+Trace line 37: return 31
+Trace line 50: d_nr : 35307
+Trace line 50: Called function finn_m_leng with parameters: [9, 1996]
+Trace line 37: return 30
+Trace line 50: d_nr : 35337
+Trace line 52: return 35360
+Trace line 58: Called function finn_dag_nr with parameters: [1996, 10, 23]
+Trace line 41: d_nr : 0
+Trace line 44: Called function range with parameters: [1900, 1996]
+Trace line 45: d_nr : 365
+Trace line 46: Called function er_skuddaar with parameters: [1900]
+Trace line 32: return False
+Trace line 45: d_nr : 730
+Trace line 46: Called function er_skuddaar with parameters: [1901]
+Trace line 32: return False
+Trace line 45: d_nr : 1095
+Trace line 46: Called function er_skuddaar with parameters: [1902]
+Trace line 32: return False
+Trace line 45: d_nr : 1460
+Trace line 46: Called function er_skuddaar with parameters: [1903]
+Trace line 32: return False
+Trace line 45: d_nr : 1825
+Trace line 46: Called function er_skuddaar with parameters: [1904]
+Trace line 32: return 4
+Trace line 46: d_nr : 1826
+Trace line 45: d_nr : 2191
+Trace line 46: Called function er_skuddaar with parameters: [1905]
+Trace line 32: return False
+Trace line 45: d_nr : 2556
+Trace line 46: Called function er_skuddaar with parameters: [1906]
+Trace line 32: return False
+Trace line 45: d_nr : 2921
+Trace line 46: Called function er_skuddaar with parameters: [1907]
+Trace line 32: return False
+Trace line 45: d_nr : 3286
+Trace line 46: Called function er_skuddaar with parameters: [1908]
+Trace line 32: return 8
+Trace line 46: d_nr : 3287
+Trace line 45: d_nr : 3652
+Trace line 46: Called function er_skuddaar with parameters: [1909]
+Trace line 32: return False
+Trace line 45: d_nr : 4017
+Trace line 46: Called function er_skuddaar with parameters: [1910]
+Trace line 32: return False
+Trace line 45: d_nr : 4382
+Trace line 46: Called function er_skuddaar with parameters: [1911]
+Trace line 32: return False
+Trace line 45: d_nr : 4747
+Trace line 46: Called function er_skuddaar with parameters: [1912]
+Trace line 32: return 12
+Trace line 46: d_nr : 4748
+Trace line 45: d_nr : 5113
+Trace line 46: Called function er_skuddaar with parameters: [1913]
+Trace line 32: return False
+Trace line 45: d_nr : 5478
+Trace line 46: Called function er_skuddaar with parameters: [1914]
+Trace line 32: return False
+Trace line 45: d_nr : 5843
+Trace line 46: Called function er_skuddaar with parameters: [1915]
+Trace line 32: return False
+Trace line 45: d_nr : 6208
+Trace line 46: Called function er_skuddaar with parameters: [1916]
+Trace line 32: return 16
+Trace line 46: d_nr : 6209
+Trace line 45: d_nr : 6574
+Trace line 46: Called function er_skuddaar with parameters: [1917]
+Trace line 32: return False
+Trace line 45: d_nr : 6939
+Trace line 46: Called function er_skuddaar with parameters: [1918]
+Trace line 32: return False
+Trace line 45: d_nr : 7304
+Trace line 46: Called function er_skuddaar with parameters: [1919]
+Trace line 32: return False
+Trace line 45: d_nr : 7669
+Trace line 46: Called function er_skuddaar with parameters: [1920]
+Trace line 32: return 20
+Trace line 46: d_nr : 7670
+Trace line 45: d_nr : 8035
+Trace line 46: Called function er_skuddaar with parameters: [1921]
+Trace line 32: return False
+Trace line 45: d_nr : 8400
+Trace line 46: Called function er_skuddaar with parameters: [1922]
+Trace line 32: return False
+Trace line 45: d_nr : 8765
+Trace line 46: Called function er_skuddaar with parameters: [1923]
+Trace line 32: return False
+Trace line 45: d_nr : 9130
+Trace line 46: Called function er_skuddaar with parameters: [1924]
+Trace line 32: return 24
+Trace line 46: d_nr : 9131
+Trace line 45: d_nr : 9496
+Trace line 46: Called function er_skuddaar with parameters: [1925]
+Trace line 32: return False
+Trace line 45: d_nr : 9861
+Trace line 46: Called function er_skuddaar with parameters: [1926]
+Trace line 32: return False
+Trace line 45: d_nr : 10226
+Trace line 46: Called function er_skuddaar with parameters: [1927]
+Trace line 32: return False
+Trace line 45: d_nr : 10591
+Trace line 46: Called function er_skuddaar with parameters: [1928]
+Trace line 32: return 28
+Trace line 46: d_nr : 10592
+Trace line 45: d_nr : 10957
+Trace line 46: Called function er_skuddaar with parameters: [1929]
+Trace line 32: return False
+Trace line 45: d_nr : 11322
+Trace line 46: Called function er_skuddaar with parameters: [1930]
+Trace line 32: return False
+Trace line 45: d_nr : 11687
+Trace line 46: Called function er_skuddaar with parameters: [1931]
+Trace line 32: return False
+Trace line 45: d_nr : 12052
+Trace line 46: Called function er_skuddaar with parameters: [1932]
+Trace line 32: return 32
+Trace line 46: d_nr : 12053
+Trace line 45: d_nr : 12418
+Trace line 46: Called function er_skuddaar with parameters: [1933]
+Trace line 32: return False
+Trace line 45: d_nr : 12783
+Trace line 46: Called function er_skuddaar with parameters: [1934]
+Trace line 32: return False
+Trace line 45: d_nr : 13148
+Trace line 46: Called function er_skuddaar with parameters: [1935]
+Trace line 32: return False
+Trace line 45: d_nr : 13513
+Trace line 46: Called function er_skuddaar with parameters: [1936]
+Trace line 32: return 36
+Trace line 46: d_nr : 13514
+Trace line 45: d_nr : 13879
+Trace line 46: Called function er_skuddaar with parameters: [1937]
+Trace line 32: return False
+Trace line 45: d_nr : 14244
+Trace line 46: Called function er_skuddaar with parameters: [1938]
+Trace line 32: return False
+Trace line 45: d_nr : 14609
+Trace line 46: Called function er_skuddaar with parameters: [1939]
+Trace line 32: return False
+Trace line 45: d_nr : 14974
+Trace line 46: Called function er_skuddaar with parameters: [1940]
+Trace line 32: return 40
+Trace line 46: d_nr : 14975
+Trace line 45: d_nr : 15340
+Trace line 46: Called function er_skuddaar with parameters: [1941]
+Trace line 32: return False
+Trace line 45: d_nr : 15705
+Trace line 46: Called function er_skuddaar with parameters: [1942]
+Trace line 32: return False
+Trace line 45: d_nr : 16070
+Trace line 46: Called function er_skuddaar with parameters: [1943]
+Trace line 32: return False
+Trace line 45: d_nr : 16435
+Trace line 46: Called function er_skuddaar with parameters: [1944]
+Trace line 32: return 44
+Trace line 46: d_nr : 16436
+Trace line 45: d_nr : 16801
+Trace line 46: Called function er_skuddaar with parameters: [1945]
+Trace line 32: return False
+Trace line 45: d_nr : 17166
+Trace line 46: Called function er_skuddaar with parameters: [1946]
+Trace line 32: return False
+Trace line 45: d_nr : 17531
+Trace line 46: Called function er_skuddaar with parameters: [1947]
+Trace line 32: return False
+Trace line 45: d_nr : 17896
+Trace line 46: Called function er_skuddaar with parameters: [1948]
+Trace line 32: return 48
+Trace line 46: d_nr : 17897
+Trace line 45: d_nr : 18262
+Trace line 46: Called function er_skuddaar with parameters: [1949]
+Trace line 32: return False
+Trace line 45: d_nr : 18627
+Trace line 46: Called function er_skuddaar with parameters: [1950]
+Trace line 32: return False
+Trace line 45: d_nr : 18992
+Trace line 46: Called function er_skuddaar with parameters: [1951]
+Trace line 32: return False
+Trace line 45: d_nr : 19357
+Trace line 46: Called function er_skuddaar with parameters: [1952]
+Trace line 32: return 52
+Trace line 46: d_nr : 19358
+Trace line 45: d_nr : 19723
+Trace line 46: Called function er_skuddaar with parameters: [1953]
+Trace line 32: return False
+Trace line 45: d_nr : 20088
+Trace line 46: Called function er_skuddaar with parameters: [1954]
+Trace line 32: return False
+Trace line 45: d_nr : 20453
+Trace line 46: Called function er_skuddaar with parameters: [1955]
+Trace line 32: return False
+Trace line 45: d_nr : 20818
+Trace line 46: Called function er_skuddaar with parameters: [1956]
+Trace line 32: return 56
+Trace line 46: d_nr : 20819
+Trace line 45: d_nr : 21184
+Trace line 46: Called function er_skuddaar with parameters: [1957]
+Trace line 32: return False
+Trace line 45: d_nr : 21549
+Trace line 46: Called function er_skuddaar with parameters: [1958]
+Trace line 32: return False
+Trace line 45: d_nr : 21914
+Trace line 46: Called function er_skuddaar with parameters: [1959]
+Trace line 32: return False
+Trace line 45: d_nr : 22279
+Trace line 46: Called function er_skuddaar with parameters: [1960]
+Trace line 32: return 60
+Trace line 46: d_nr : 22280
+Trace line 45: d_nr : 22645
+Trace line 46: Called function er_skuddaar with parameters: [1961]
+Trace line 32: return False
+Trace line 45: d_nr : 23010
+Trace line 46: Called function er_skuddaar with parameters: [1962]
+Trace line 32: return False
+Trace line 45: d_nr : 23375
+Trace line 46: Called function er_skuddaar with parameters: [1963]
+Trace line 32: return False
+Trace line 45: d_nr : 23740
+Trace line 46: Called function er_skuddaar with parameters: [1964]
+Trace line 32: return 64
+Trace line 46: d_nr : 23741
+Trace line 45: d_nr : 24106
+Trace line 46: Called function er_skuddaar with parameters: [1965]
+Trace line 32: return False
+Trace line 45: d_nr : 24471
+Trace line 46: Called function er_skuddaar with parameters: [1966]
+Trace line 32: return False
+Trace line 45: d_nr : 24836
+Trace line 46: Called function er_skuddaar with parameters: [1967]
+Trace line 32: return False
+Trace line 45: d_nr : 25201
+Trace line 46: Called function er_skuddaar with parameters: [1968]
+Trace line 32: return 68
+Trace line 46: d_nr : 25202
+Trace line 45: d_nr : 25567
+Trace line 46: Called function er_skuddaar with parameters: [1969]
+Trace line 32: return False
+Trace line 45: d_nr : 25932
+Trace line 46: Called function er_skuddaar with parameters: [1970]
+Trace line 32: return False
+Trace line 45: d_nr : 26297
+Trace line 46: Called function er_skuddaar with parameters: [1971]
+Trace line 32: return False
+Trace line 45: d_nr : 26662
+Trace line 46: Called function er_skuddaar with parameters: [1972]
+Trace line 32: return 72
+Trace line 46: d_nr : 26663
+Trace line 45: d_nr : 27028
+Trace line 46: Called function er_skuddaar with parameters: [1973]
+Trace line 32: return False
+Trace line 45: d_nr : 27393
+Trace line 46: Called function er_skuddaar with parameters: [1974]
+Trace line 32: return False
+Trace line 45: d_nr : 27758
+Trace line 46: Called function er_skuddaar with parameters: [1975]
+Trace line 32: return False
+Trace line 45: d_nr : 28123
+Trace line 46: Called function er_skuddaar with parameters: [1976]
+Trace line 32: return 76
+Trace line 46: d_nr : 28124
+Trace line 45: d_nr : 28489
+Trace line 46: Called function er_skuddaar with parameters: [1977]
+Trace line 32: return False
+Trace line 45: d_nr : 28854
+Trace line 46: Called function er_skuddaar with parameters: [1978]
+Trace line 32: return False
+Trace line 45: d_nr : 29219
+Trace line 46: Called function er_skuddaar with parameters: [1979]
+Trace line 32: return False
+Trace line 45: d_nr : 29584
+Trace line 46: Called function er_skuddaar with parameters: [1980]
+Trace line 32: return 80
+Trace line 46: d_nr : 29585
+Trace line 45: d_nr : 29950
+Trace line 46: Called function er_skuddaar with parameters: [1981]
+Trace line 32: return False
+Trace line 45: d_nr : 30315
+Trace line 46: Called function er_skuddaar with parameters: [1982]
+Trace line 32: return False
+Trace line 45: d_nr : 30680
+Trace line 46: Called function er_skuddaar with parameters: [1983]
+Trace line 32: return False
+Trace line 45: d_nr : 31045
+Trace line 46: Called function er_skuddaar with parameters: [1984]
+Trace line 32: return 84
+Trace line 46: d_nr : 31046
+Trace line 45: d_nr : 31411
+Trace line 46: Called function er_skuddaar with parameters: [1985]
+Trace line 32: return False
+Trace line 45: d_nr : 31776
+Trace line 46: Called function er_skuddaar with parameters: [1986]
+Trace line 32: return False
+Trace line 45: d_nr : 32141
+Trace line 46: Called function er_skuddaar with parameters: [1987]
+Trace line 32: return False
+Trace line 45: d_nr : 32506
+Trace line 46: Called function er_skuddaar with parameters: [1988]
+Trace line 32: return 88
+Trace line 46: d_nr : 32507
+Trace line 45: d_nr : 32872
+Trace line 46: Called function er_skuddaar with parameters: [1989]
+Trace line 32: return False
+Trace line 45: d_nr : 33237
+Trace line 46: Called function er_skuddaar with parameters: [1990]
+Trace line 32: return False
+Trace line 45: d_nr : 33602
+Trace line 46: Called function er_skuddaar with parameters: [1991]
+Trace line 32: return False
+Trace line 45: d_nr : 33967
+Trace line 46: Called function er_skuddaar with parameters: [1992]
+Trace line 32: return 92
+Trace line 46: d_nr : 33968
+Trace line 45: d_nr : 34333
+Trace line 46: Called function er_skuddaar with parameters: [1993]
+Trace line 32: return False
+Trace line 45: d_nr : 34698
+Trace line 46: Called function er_skuddaar with parameters: [1994]
+Trace line 32: return False
+Trace line 45: d_nr : 35063
+Trace line 46: Called function er_skuddaar with parameters: [1995]
+Trace line 32: return False
+Trace line 49: Called function range with parameters: [1, 10]
+Trace line 50: Called function finn_m_leng with parameters: [1, 1996]
+Trace line 37: return 31
+Trace line 50: d_nr : 35094
+Trace line 50: Called function finn_m_leng with parameters: [2, 1996]
+Trace line 36: Called function er_skuddaar with parameters: [1996]
+Trace line 32: return 96
+Trace line 36: return 29
+Trace line 50: d_nr : 35123
+Trace line 50: Called function finn_m_leng with parameters: [3, 1996]
+Trace line 37: return 31
+Trace line 50: d_nr : 35154
+Trace line 50: Called function finn_m_leng with parameters: [4, 1996]
+Trace line 37: return 30
+Trace line 50: d_nr : 35184
+Trace line 50: Called function finn_m_leng with parameters: [5, 1996]
+Trace line 37: return 31
+Trace line 50: d_nr : 35215
+Trace line 50: Called function finn_m_leng with parameters: [6, 1996]
+Trace line 37: return 30
+Trace line 50: d_nr : 35245
+Trace line 50: Called function finn_m_leng with parameters: [7, 1996]
+Trace line 37: return 31
+Trace line 50: d_nr : 35276
+Trace line 50: Called function finn_m_leng with parameters: [8, 1996]
+Trace line 37: return 31
+Trace line 50: d_nr : 35307
+Trace line 50: Called function finn_m_leng with parameters: [9, 1996]
+Trace line 37: return 30
+Trace line 50: d_nr : 35337
+Trace line 52: return 35360
+Trace line 58: u_dag : onsdag
+Trace line 59: Called function str with parameters: [23]
+Trace line 59: Called function print with parameters: [23., oktober, 1996, er en, onsdag]
